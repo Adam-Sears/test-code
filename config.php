@@ -1,0 +1,1 @@
+test-class -> $conn = $sqlsrv_connect("ADZS_ONLINE-PC1");
