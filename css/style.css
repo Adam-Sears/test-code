@@ -1,0 +1,23 @@
+.header-box {
+    background-color: #0CF;
+}
+
+.header-text {
+    padding: 0 10%;
+}
+
+.page-content {
+    padding: 25px 20% 0 20%;
+}
+
+.section-break {
+    padding: 25px 0 0 0;
+}
+
+.button-box {
+    padding: 50px 20% 0 20%;
+}
+
+body {
+    padding: 0 0 50px 0;
+}
